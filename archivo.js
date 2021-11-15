@@ -1,1 +1,1 @@
-alert(carlos esta estudiando);
+alert(editado);
